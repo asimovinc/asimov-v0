@@ -1,7 +1,18 @@
-# Specifications
+# Asimov v0, an open-source bipedal robotic legs for humanoid robots
+
+Asimov is a complete bipedal leg built with off-the-shelf components and compatible with low-volume manufacturing processes.
+
+<p align="center">
+  <a href="https://asimov.inc">Website</a>
+  - <a href="https://discord.gg/HzDfGN7kUw">Community</a>
+  - <a href="https://asimov.inc/early">Support</a>
+</p>
+
+## Specifications
 - 12 DOF actuation, 6 DOF per leg
 - Articulated toe
 - RSU (Revolute Spherical Universal) ankle mechanism
+- MJF 3D printing compatible
 
 ## Left Leg
 
@@ -37,3 +48,8 @@
 | Knee_Pitch | EC-A4315-P2-36   |
 | Ankle_A    | EC-A4310-P2-36   |
 | Ankle_B    | EC-A4310-P2-36   |
+
+## Support the project
+Asimov is Menlo Research's open-source humanoid robot:
+- If you want to support development: [asimov.inc/early](https://asimov.inc/early)
+- For partnerships: hello@menlo.ai
