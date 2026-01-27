@@ -2,6 +2,8 @@
 
 Asimov is a complete bipedal leg for humanoid robots, built with off-the-shelf components and compatible with low-volume manufacturing processes.
 
+![Asimov Legs](media/asimov-legs-repo-v0.png)
+
 <video src="https://github.com/asimovinc/asimov-v0/raw/main/media/asimov-legs.gif" width="600" controls></video>
 
 <p align="center">
